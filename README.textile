@@ -1,0 +1,13 @@
+
+h2. Running on your machine:
+
+You can start up a local webserver by using python's simple server(in terminal):
+
+<pre>
+
+python -m SimpleHTTTPServer
+
+</pre>
+
+
+
